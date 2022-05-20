@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="pydirectory" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="databricks-cli" />
+            <item index="3" class="java.lang.String" itemvalue="missingno" />
+            <item index="4" class="java.lang.String" itemvalue="pandas-profiling" />
+            <item index="5" class="java.lang.String" itemvalue="plac" />
+            <item index="6" class="java.lang.String" itemvalue="docker" />
+            <item index="7" class="java.lang.String" itemvalue="prometheus-flask-exporter" />
+            <item index="8" class="java.lang.String" itemvalue="jupyterlab-widgets" />
+            <item index="9" class="java.lang.String" itemvalue="smart-open" />
+            <item index="10" class="java.lang.String" itemvalue="visions" />
+            <item index="11" class="java.lang.String" itemvalue="blis" />
+            <item index="12" class="java.lang.String" itemvalue="image-slicer" />
+            <item index="13" class="java.lang.String" itemvalue="textblob" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
